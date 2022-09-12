@@ -4,7 +4,5 @@ Pia Potasznik
 Ezequiel Korenblum
 Juan Ignacio Vidal
 Uriel Szwarcman
-Nahuel Lescano
+[Nahuel Lescano](https://github.com/NahuelLescano).
 Nicolas Silvera 
-
-##Hola que hace
